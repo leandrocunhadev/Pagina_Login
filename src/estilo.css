@@ -1,0 +1,141 @@
+body{
+
+    background-image:linear-gradient(rgb(236, 81, 9), white)  ;
+    background-size: 100%; 
+    background-repeat: no-repeat;
+
+    
+}
+
+.forms{
+
+
+   height: 100px;
+   width: 1000px;
+   position: relative;
+   bottom: -180px;
+   text-align: right;
+   left: 50px;
+}
+
+.btn-primary1{
+
+    background-color: darkolivegreen;
+    width: 100px ;
+    position: relative;
+    left: -0px ;
+    color: aliceblue;
+    bottom: -80px;
+}
+
+h1{
+
+    
+    height: 100px;
+    width: 400px;
+    position: relative;
+    top: -100px;
+    left:700px;
+ }
+   
+ .bi-facebook{
+
+    
+    position: relative;
+    top: 30px;
+    left: -100px;
+ }
+
+ .bi-google {
+
+   
+    position: relative;
+    top: 30px;
+    left: -50px;
+
+
+ }
+
+ .bi-linkedin{
+
+    position: relative;
+    top: 30px;
+    left: 100px;
+
+    
+}
+
+ h6{
+    position: relative;
+    top: 50px;
+    left: 60px;
+ }
+
+
+h2{
+
+
+    color: beige;
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+
+    
+
+
+
+
+pre{
+
+    color:beige;
+    left: 100px;
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.btn-primary2{
+
+    left: 50px;
+    position: relative;
+    left: 200px;
+    bottom: -70px;
+    background-color: blue;
+    color: aliceblue;
+
+}
+
+span.nome{
+
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(248, 244, 244); 
+    }
+    
+
+
+#email{
+
+width: 300px;
+position: relative;
+margin-right: -110px;
+border-radius: 14px;
+
+}
+
+#name{
+    width: 300px;
+    position: relative;
+    margin-right: -110px;
+    border-radius: 14px;
+
+}
+
+#password{
+
+    width: 300px;
+    position: relative;
+    margin-right: -110px;
+    border-radius: 14px;
+}
